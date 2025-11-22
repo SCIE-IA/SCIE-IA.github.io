@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 ## We are [sciers](https://www.alevel.com.cn/)
 
 Group members:
@@ -9,3 +14,4 @@ Group members:
 🟢Kevin 
 🟡Ryan 
 🔴Terran
+
