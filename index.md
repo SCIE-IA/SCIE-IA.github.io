@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-## Welcome to our IA adventurous journeys! 
+*Welcome to our IA adventurous journeys!* 
+
 
 
 
