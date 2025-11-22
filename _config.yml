@@ -1,8 +1,9 @@
 title: SCIE IA Group 9
+author: Emily
 baseurl: "" # leave this empty unless you are not using a custom domain
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  Emily-GL-2025
+github_username: Emily-GL-2025
 
 # Build settings
 theme: minima
