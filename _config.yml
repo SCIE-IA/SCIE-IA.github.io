@@ -1,7 +1,4 @@
 title: SCIE IA Group 9
-email: emilyglhk at gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  # SCIE IA Group 9 and Team members: Adeline Elaine Emily Jim Kevin Ryan Terran
 baseurl: "" # leave this empty unless you are not using a custom domain
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
