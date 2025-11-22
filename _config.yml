@@ -1,1 +1,18 @@
-title: SCIE IA Group 9 
+title: SCIE IA Group 9
+email: emilyglhk at gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  SCIE IA Group 9 and Team members: Adeline Elaine Emily Jim Kevin Ryan Terran
+baseurl: "" # leave this empty unless you are not using a custom domain
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  Emily-GL-2025
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Minima 2.5.1 specific settings
+show_excerpts: true # Shows a preview of your posts on the homepage
+header_pages:
+  - about.md
