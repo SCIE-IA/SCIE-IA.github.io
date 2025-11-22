@@ -2,6 +2,7 @@
 layout: post
 title: Lantau Gallery
 date: 2025-11-19 10:00:00 -0500
+excerpt: "Here are the photos from our Lantau trip."
 # This is where you list your images. 
 # Just add a new line with "- " and the filename for each photo.
 gallery_images:
@@ -11,7 +12,7 @@ gallery_images:
   - IMG0004.JPG
 ---
 
-Here are the photos from our lantau trip!
+Here are the photos from our Lantau trip!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   {% for image in page.gallery_images %}
@@ -23,3 +24,4 @@ Here are the photos from our lantau trip!
 
 
 Hope you liked them!
+
