@@ -9,7 +9,6 @@ gallery_images:
   - IMG0002.JPG
   - IMG0003.JPG
   - IMG0004.JPG
-  - IMG0005.JPG
 ---
 
 Here are the photos from our lantau trip!
@@ -21,5 +20,6 @@ Here are the photos from our lantau trip!
     </div>
   {% endfor %}
 </div>
+
 
 Hope you liked them!
