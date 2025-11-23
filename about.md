@@ -7,12 +7,19 @@ permalink: /about/
 
 Group members:
 
-- 🔴Adeline 
-- 🟢Elaine 
-- 🟡Emily 
-- 🟡Jim 
-- 🟢Kevin 
-- 🟡Ryan 
-- 🔴Terran
+🔴Adeline 
+
+🟢Elaine 
+
+🟡Emily 
+
+🟡Jim 
+
+🟢Kevin 
+
+🟡Ryan 
+
+🔴Terran
+
 
 
