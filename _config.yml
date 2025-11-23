@@ -7,8 +7,7 @@ github_username: Emily-GL-2025
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+
 
 # Minima 2.5.1 specific settings
 show_excerpts: true # Shows a preview of your posts on the homepage
