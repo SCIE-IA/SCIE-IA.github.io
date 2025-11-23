@@ -7,10 +7,11 @@ title: Welcome to our IA adventurous journeys!
   .post-list-heading {
     display: none;
   }
-  .feed-subscribe, .post-list-heading {
+  .rss-subscribe {
     display: none;
   }
 </style>
+
 
 
 
