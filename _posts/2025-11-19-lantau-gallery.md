@@ -30,6 +30,8 @@ gallery_images:
 
 Here are the photos from our lantau trip!
 
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   {% for image in page.gallery_images %}
     <div style="flex: 1 1 300px; max-width: 400px;">
@@ -37,5 +39,6 @@ Here are the photos from our lantau trip!
     </div>
   {% endfor %}
 </div>
+
 
 Hope you liked them!
