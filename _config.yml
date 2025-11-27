@@ -11,5 +11,6 @@ theme: minima
 
 # Minima 2.5.1 specific settings
 show_excerpts: true # Shows a preview of your posts on the homepage
+excerpt_separator: ""
 header_pages:
   - about.md
