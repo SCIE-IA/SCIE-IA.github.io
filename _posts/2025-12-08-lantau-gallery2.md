@@ -7,27 +7,26 @@ excerpt: Here are the photos 📸 from our Lantau trip!
 # Just add a new line with "- " and the filename for each photo.
 gallery_images:
   - IMG0022.JPG
-  - IMG0023.JPG
-  - IMG0024.JPG
-  - IMG0025.JPG
-  - IMG0026.JPG
-  - IMG0027.JPG
-  - IMG0028.JPG
-  - IMG0029.JPG
-  - IMG0009.JPG
-  - IMG0030.JPG
-  - IMG0031.JPG
-  - IMG0032.JPG
-  - IMG0033.JPG
-  - IMG0034.JPG 
-  - IMG0035.JPG
-  - IMG0036.JPG
-  - IMG0037.JPG
-  - IMG0038.JPG
-  - IMG0039.JPG
-  - IMG0040.JPG
-  - IMG0041.JPG
-  - IMG0042.JPG
+  - IMG0023.jpg
+  - IMG0024.jpg
+  - IMG0025.jpg
+  - IMG0026.jpg
+  - IMG0027.jpg
+  - IMG0028.jpg
+  - IMG0029.jpg
+  - IMG0030.jpg
+  - IMG0031.jpg
+  - IMG0032.jpg
+  - IMG0033.jpg
+  - IMG0034.jpg 
+  - IMG0035.jpg
+  - IMG0036.jpg
+  - IMG0037.jpg
+  - IMG0038.jpg
+  - IMG0039.jpg
+  - IMG0040.jpg
+  - IMG0041.jpg
+  - IMG0042.jpg
 ---
 
 Here are the photos 📸 from our Lantau trip!
