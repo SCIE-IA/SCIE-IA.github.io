@@ -19,12 +19,12 @@ gallery_images:
   - IMG0032.jpg
   - IMG0033.jpg
   - IMG0034.jpg 
-  - IMG0035.jpg
   - IMG0036.jpg
+  - IMG0035.jpg
+  - IMG0040.jpg
   - IMG0037.jpg
   - IMG0038.jpg
   - IMG0039.jpg
-  - IMG0040.jpg
   - IMG0041.jpg
   - IMG0042.jpg
 ---
